@@ -28,7 +28,7 @@
         />
       </div>
     </template>
-    <p>Here should be our loader component...</p>
+    <p v-else>Here should be our loader component...</p>
   </div>
 </template>
 
